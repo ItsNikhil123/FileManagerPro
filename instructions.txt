@@ -1,0 +1,2 @@
+1. Run python file "main.py".
+2. install the modules followed 'import' statement
